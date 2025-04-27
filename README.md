@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript — I'll either solve your problem or join you in crying about it. 😭**
 
-- 📫 How to reach me **mohammed.khdair@outlook.com**
+- 📫 How to reach me [Email](mailto:mohammed.khdair@outlook.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1087PXIFUzSUUcHkT59wzKSYDI3VsWNOq/view?usp=sharing)
 
