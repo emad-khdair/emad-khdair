@@ -6,11 +6,12 @@
 ---
 
 ### 💡 About Me
-
+<p align="center">
 Software developer with a bachelor’s degree in computer engineering and hands-on experience in  
 front-end and back-end development, as well as IT operations. Proficient in JavaScript, Python, and SQL, with  
 exposure to React, REST APIs, Docker, and PostgreSQL. Looking to join a collaborative team where I can help  
 build impactful, high-performance software focused on user experience and real-world problem solving.
+<p align="center">
 
 ---
 
@@ -18,15 +19,7 @@ build impactful, high-performance software focused on user experience and real-w
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,sql,react,postgres,tailwind,git,github" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emad-khdair&theme=radical&no-bg=true&no-frame=true&column=7" />
-</p>
 
 ---
 
