@@ -1,44 +1,24 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Mohammed"Typing SVG" />
-</p>
+## Hi there 👋
 
----
+```js
+const aboutMe = {
+    name: {
+        first: "Mohammed",
+        last: "Khdair",
+    },
+    experience: {
+        curr: "IT Technical Engineer",
+    },
+    workingOn: "AI Powered Job Portal",
+    learning: "How to build a large-scale, high-throughput platforms",
+    certifications: [
+        "Oracle Cloud Infrastructure AI Foundations",
+        "AWS Certified Cloud Practitioner (In Progress)"
+    ],
+    socials: {
+        linkedin: "https://www.linkedin.com/in/mohammedkhdair",
+        email: "mohammed.khdair@outlook.com",
+        website: "https://emadkhdair.me/"
+    }
+}
 
-### 💡 About Me
-<p align="center">
-Software developer with a bachelor’s degree in computer engineering and hands-on experience in  
-front-end and back-end development, as well as IT operations. Proficient in JavaScript, Python, and SQL, with  
-exposure to React, REST APIs, Docker, and PostgreSQL. Looking to join a collaborative team where I can help  
-build impactful, high-performance software focused on user experience and real-world problem solving.
-<p align="center">
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,sql,react,postgres,tailwind,git,github" />
-<p align="center">
-
----
-
-### 📬 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammedkhdair/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="mailto:mohammed.khdair@outlook.com">
-    <img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://github.com/emad-khdair">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emad-khdair&label=Profile+Views&color=blue" />
-</p>
